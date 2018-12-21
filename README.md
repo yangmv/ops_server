@@ -1,8 +1,9 @@
 ## 运维自动化平台2.0
 
-[运维自动化平台2.0](https://github.com/yangmv/ops_server2.git)
+请转移到 [运维自动化平台2.0](https://github.com/yangmv/ops_server2.git)
 
 
+## 运维自动化平台1.0
 ### 1.运维自动化平台概述
 #### 1.1 什么是运维自动化？
     操作WEB化，部署自动化，监控自动化
