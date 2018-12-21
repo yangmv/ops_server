@@ -124,3 +124,7 @@ IT资源借用为归还到期邮件提醒报警，提醒借用人归还物品,�
 ![image](https://raw.githubusercontent.com/yangmv/ops_server/master/images/018.png)
 ![image](https://raw.githubusercontent.com/yangmv/ops_server/master/images/019.png)
 ![image](https://raw.githubusercontent.com/yangmv/ops_server/master/images/020.png)
+
+## License
+
+Everything is [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
